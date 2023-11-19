@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./src",
+    "baseUrl": "https://vdsmovie.vercel.app/",
     "target": "es5",
     "lib": [
       "dom",
